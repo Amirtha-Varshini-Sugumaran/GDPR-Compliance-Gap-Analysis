@@ -54,6 +54,6 @@ This is a case-study project using a fictional small recruitment agency. The sce
 | File | Description |
 |---|---|
 | `README.md` | Project overview for quick review |
-| `GDPR_Compliance_Gap_Analysis.md` | Main project document with context, gaps, impact, recommendations, process flow, and metrics |
-| `artifacts/process-flow-mermaid.md` | Clean Mermaid process flow for the current and improved process |
-| `artifacts/tracker-template.md` | Simple GDPR request tracker template |
+| `gdpr-compliance-gap-analysis.md` | Main project document with context, gaps, impact, recommendations, process flow, and metrics |
+| `artifacts/gdpr-process-flow.md` | Clean Mermaid process flow for the current and improved process |
+| `artifacts/gdpr-request-tracker-template.md` | Simple GDPR request tracker template |
