@@ -1,54 +1,57 @@
 # GDPR Compliance Gap Analysis
 
-A small Business Analyst portfolio project looking at how a Dublin recruitment agency manages GDPR-related requests and personal data.
+## Short Summary
 
-The company used in this project is fictional, but the situation is realistic: a small team using email, shared folders, and Excel to manage candidate and client information without a proper compliance system.
+This is a Business Analyst mini-project based on a fictional small recruitment agency in Dublin called Greenline Recruitment.
 
-## Project Summary
+The project looks at how the company handles GDPR requests, candidate data, consent records, and basic audit evidence.
 
-Greenline Recruitment is a small recruitment agency with around 18 staff. They handle candidate CVs, ID documents, interview notes, client contact details, and some payroll-related information for temporary workers.
-
-The main issue is that the company has grown, but its data handling process is still very manual. GDPR requests come through email, consent is not consistently recorded, and personal data is spread across different places.
-
-This project reviews the current process, identifies the main gaps, and recommends a simple, realistic way to improve control without introducing an overly complex system.
+The main issue is that the team relies on email, Excel, and shared folders, which makes it hard to track requests properly or prove what action was taken.
 
 ## Why This Project Matters
 
-Small businesses often do not have a dedicated compliance team. That does not mean GDPR risk disappears.
+Small businesses often handle a lot of personal data without having a formal compliance system.
 
-For a recruitment agency, personal data is part of everyday work. If candidate data is stored in too many places, requests are handled informally, and consent records are incomplete, the business can quickly lose track of what it holds and what it has agreed to do with it.
+For a recruitment agency, this matters because CVs, ID documents, interview notes, and payroll details are part of daily work.
 
-This project shows how a Business Analyst can take a messy operational problem and turn it into a clearer process, with practical improvements the business could actually use.
+The risk is not always that the business is ignoring GDPR. Sometimes the bigger problem is that actions are handled manually and there is no clear record afterwards.
 
-## Files in This Project
+This project shows how a simple process improvement can reduce risk and make the work easier to manage.
 
-| File | Description |
-|---|---|
-| `GDPR_Compliance_Gap_Analysis.md` | Main project document covering context, gaps, impact, recommendations, process flow, and metrics |
-| `interview_notes.md` | Short notes to help explain the project in an interview |
-| `README.md` | Project overview and guide |
+## Key Highlights
+
+- Reviewed the current GDPR request process for a small recruitment agency
+- Identified practical gaps in tracking, consent, ownership, retention, and audit evidence
+- Compared current state vs improved state
+- Created a simple GDPR request tracker example
+- Added realistic success metrics for a small business
+- Recommended lightweight improvements instead of a large compliance platform
 
 ## Skills Demonstrated
 
 - Business process analysis
-- GDPR gap analysis
-- Current state vs improved state mapping
-- Requirements thinking
+- Gap analysis
+- GDPR process awareness
+- Current state vs future state mapping
 - Risk and impact assessment
-- Practical recommendation writing
+- Requirements thinking
+- Practical documentation
 - KPI definition
-- Stakeholder-friendly documentation
+- Stakeholder-friendly communication
 
-## How to Use This Project in Interviews
+## Files in This Repo
 
-This project is useful for explaining how you approach a real business problem, especially when the process is unclear or mostly manual.
+| File | Description |
+|---|---|
+| `README.md` | Overview of the project and how to use it |
+| `GDPR_Compliance_Gap_Analysis.md` | Main project document with context, gaps, impact, recommendations, process flow, and metrics |
 
-A good way to talk about it:
+## How to Talk About It in Interviews
 
-- Start with the business context: a small recruitment agency handling sensitive candidate data.
-- Explain the current problem in plain terms: data is spread across email, Excel, and shared folders.
-- Talk through the key gaps: poor request tracking, weak consent evidence, unclear ownership, and limited audit visibility.
-- Explain the recommended improvement: a simple request tracker, basic data register, and better consent fields.
-- Finish with the business value: fewer missed requests, better evidence, less manual searching, and more trust with candidates.
+A simple way to explain it:
 
-The point of the project is not to pretend to be a GDPR lawyer. It is to show that you can spot process risk, ask sensible questions, and suggest improvements that fit the size of the business.
+"I created a GDPR gap analysis for a fictional small recruitment agency that handles candidate and client data through email, Excel, and shared folders. The issue was not that the team was ignoring GDPR, but that they had no clear way to track requests, prove actions, or manage consent consistently.
+
+I reviewed the current process, identified the main gaps, and recommended a lightweight tracker, basic data register, clearer ownership, and monthly review checks. The value was better visibility, fewer missed requests, less manual searching, and stronger audit evidence."
+
+This project is useful for Business Analyst interviews because it shows how to take a messy manual process and turn it into something clearer, measurable, and realistic for the size of the business.
