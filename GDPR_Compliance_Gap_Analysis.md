@@ -18,7 +18,7 @@ The goal was to reflect common GDPR process gaps in a practical way.
 
 SMEs often handle personal data every day, but they do not always have a formal compliance team or a dedicated system for GDPR work.
 
-For a recruitment agency, this is especially important because CVs, ID documents, interview notes, right-to-work checks, and payroll details are part of normal daily work.
+For a recruitment agency, this is especially important because CVs, ID documents, candidate assessment notes, right-to-work checks, and payroll details are part of normal daily work.
 
 The problem is common because small teams usually start with email, Excel, and shared folders. Those tools work for a while, then become harder to control as the business grows.
 
@@ -34,7 +34,7 @@ The team stores and uses personal data such as:
 
 - candidate CVs
 - ID documents
-- interview notes
+- candidate assessment notes
 - client contact details
 - right-to-work checks
 - some payroll details for temporary workers

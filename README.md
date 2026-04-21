@@ -18,7 +18,7 @@ It felt like a realistic Business Analyst problem: the work is being done, but t
 
 Small businesses often handle a lot of personal data without having a formal compliance system.
 
-For a recruitment agency, this matters because CVs, ID documents, interview notes, and payroll details are part of daily work.
+For a recruitment agency, this matters because CVs, ID documents, candidate assessment notes, and payroll details are part of daily work.
 
 The risk is not always that the business is ignoring GDPR. Sometimes the bigger problem is that actions are handled manually and there is no clear record afterwards.
 
@@ -32,6 +32,10 @@ This project shows how a simple process improvement can reduce risk and make the
 - Created a simple GDPR request tracker example
 - Added realistic success metrics for a small business
 - Recommended lightweight improvements instead of a large compliance platform
+
+## Data Source
+
+This is a case-study project using a fictional small recruitment agency. The scenario, process gaps, and tracker examples are synthetic, but they are based on common GDPR handling patterns in small service businesses. A fictional setup keeps the work shareable while still showing realistic business analysis.
 
 ## Skills Demonstrated
 
@@ -49,7 +53,7 @@ This project shows how a simple process improvement can reduce risk and make the
 
 | File | Description |
 |---|---|
-| `README.md` | Overview of the project and how to use it |
+| `README.md` | Project overview for quick review |
 | `GDPR_Compliance_Gap_Analysis.md` | Main project document with context, gaps, impact, recommendations, process flow, and metrics |
 | `artifacts/process-flow-mermaid.md` | Clean Mermaid process flow for the current and improved process |
 | `artifacts/tracker-template.md` | Simple GDPR request tracker template |
