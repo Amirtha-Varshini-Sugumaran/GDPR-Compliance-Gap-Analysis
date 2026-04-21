@@ -6,13 +6,23 @@ This mini-project looks at GDPR process gaps in a small recruitment agency in Du
 
 The focus is not legal advice. It is a Business Analyst-style review of how personal data is currently handled, where the weak spots are, and what a realistic improved process could look like for a small team.
 
+## Why This Project Matters
+
+SMEs often handle personal data every day, but they do not always have a formal compliance team or a dedicated system for GDPR work.
+
+For a recruitment agency, this is especially important because CVs, ID documents, interview notes, right-to-work checks, and payroll details are part of normal daily work.
+
+The problem is common because small teams usually start with email, Excel, and shared folders. Those tools work for a while, then become harder to control as the business grows.
+
+This analysis matters because the risk is not always that people are ignoring GDPR. Sometimes the team is doing the work, but cannot clearly prove what happened later.
+
 ## Business Context
 
 Greenline Recruitment is a fictional small recruitment agency with around 18 staff.
 
 They place office admin, finance, customer service, and short-term temp candidates into small and medium-sized businesses around Ireland.
 
-The team stores and uses a lot of personal data, including:
+The team stores and uses personal data such as:
 
 - candidate CVs
 - ID documents
@@ -105,6 +115,14 @@ This is not a case of people being careless. The process is just too spread out.
 6. Audit evidence is weak  
    If the Data Protection Commission asked how a request was handled, the team would need to search emails and folders manually. That would take time and may still not give a complete answer.
 
+## Key Insight
+
+The main issue is not the number of GDPR requests Greenline receives.
+
+The bigger issue is lack of control. The team may be doing the right thing, but they do not have a reliable way to show what happened.
+
+Simple visibility would solve a lot here: one tracker, clear ownership, due dates, and saved evidence.
+
 ## Business Impact
 
 The biggest risk is not only a possible GDPR fine. The more immediate issue is that Greenline cannot confidently prove what happened with someone's data.
@@ -151,6 +169,28 @@ For consent, the candidate tracker should include a few clear fields:
 
 A monthly review would also help. The operations manager or office manager could check overdue requests, old records, and missing consent fields once a month. It is a small habit, but it would make the process much more controlled.
 
+## Proposed Solution Snapshot
+
+The solution does not need to be complicated. A shared tracker with clear ownership would be enough to give the team much better visibility.
+
+The tracker could sit in SharePoint Lists, Airtable, Monday.com, or another lightweight tool the team already understands. The important part is that every request is logged, assigned, followed up, and closed with evidence.
+
+Example GDPR request tracker:
+
+| Request ID | Date Received | Request Type | Owner | Due Date | Status | Evidence |
+|---|---|---|---|---|---|---|
+| GDPR-001 | 04 Mar 2026 | Data deletion | Office Manager | 03 Apr 2026 | In progress | Email saved; folders being checked |
+| GDPR-002 | 11 Mar 2026 | Data access | Senior Consultant | 10 Apr 2026 | Open | Awaiting inbox and folder search |
+| GDPR-003 | 18 Mar 2026 | Consent withdrawal | Recruitment Admin | 17 Apr 2026 | Closed | Candidate record updated; confirmation sent |
+| GDPR-004 | 22 Mar 2026 | Data correction | Office Manager | 21 Apr 2026 | Closed | Updated CV record saved |
+
+This gives the business a simple answer to basic questions:
+
+- What requests are open?
+- Who owns them?
+- What is due soon?
+- What proof do we have that the request was completed?
+
 ## Simple Process Flow
 
 ### As-Is Process
@@ -183,6 +223,16 @@ Improved process in plain English:
 
 Request comes in -> logged in tracker -> assigned to owner -> checked properly -> action completed -> evidence saved -> request closed
 
+## Improved Flow Table
+
+| Step | What Happens | Why It Helps |
+|---|---|---|
+| 1. Log request | Every GDPR request is added to the tracker on the day it arrives | Stops requests sitting unnoticed in the inbox |
+| 2. Assign owner | One person is responsible for follow-up | Removes confusion about who is handling it |
+| 3. Check data locations | Email, folders, Excel, and candidate records are checked | Gives a clearer view of what data exists |
+| 4. Save evidence | Notes, confirmations, and actions are saved against the request | Makes the process easier to prove later |
+| 5. Close request | Status is updated once the response is sent | Gives managers a simple view of completed work |
+
 ## Success Metrics
 
 These are simple measures the business could actually use:
@@ -207,6 +257,16 @@ The biggest risk is that the company cannot easily prove what data it holds, whe
 The quickest win would be a simple GDPR request tracker and a basic data register. That gives the business more control without forcing the team into a heavy system they probably would not use properly.
 
 This project helped me see GDPR as a process issue as much as a compliance issue. The business does not just need rules. It needs a simple way for people to do the right thing consistently.
+
+## How to Use This Project in Interviews
+
+In an interview, I would explain this project as a practical gap analysis for a small recruitment agency that handles a lot of personal data but relies on email, Excel, and shared folders.
+
+The main thing I would highlight is that the issue was not just GDPR knowledge. It was the lack of a repeatable process. Requests could be handled, but the business had no simple way to track ownership, deadlines, or evidence.
+
+This project demonstrates process analysis, gap identification, risk thinking, stakeholder-friendly documentation, and practical recommendations.
+
+It is relevant to Business Analyst roles because many BA problems are like this: the business is doing the work, but the process is too manual, unclear, or hard to measure.
 
 ## Resume Bullets
 
