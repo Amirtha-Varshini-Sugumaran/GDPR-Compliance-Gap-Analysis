@@ -53,13 +53,3 @@ This project shows how a simple process improvement can reduce risk and make the
 | `GDPR_Compliance_Gap_Analysis.md` | Main project document with context, gaps, impact, recommendations, process flow, and metrics |
 | `artifacts/process-flow-mermaid.md` | Clean Mermaid process flow for the current and improved process |
 | `artifacts/tracker-template.md` | Simple GDPR request tracker template |
-
-## How to Talk About It in Interviews
-
-A simple way to explain it:
-
-"I created a GDPR gap analysis for a fictional small recruitment agency that handles candidate and client data through email, Excel, and shared folders. The issue was not that the team was ignoring GDPR, but that they had no clear way to track requests, prove actions, or manage consent consistently.
-
-I reviewed the current process, identified the main gaps, and recommended a lightweight tracker, basic data register, clearer ownership, and monthly review checks. The value was better visibility, fewer missed requests, less manual searching, and stronger audit evidence."
-
-This project is useful for Business Analyst interviews because it shows how to take a messy manual process and turn it into something clearer, measurable, and realistic for the size of the business.
