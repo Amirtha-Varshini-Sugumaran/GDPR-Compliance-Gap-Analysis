@@ -265,19 +265,3 @@ The biggest risk is that the company cannot easily prove what data it holds, whe
 The quickest win would be a simple GDPR request tracker and a basic data register. That gives the business more control without forcing the team into a heavy system they probably would not use properly.
 
 This project helped me see GDPR as a process issue as much as a compliance issue. The business does not just need rules. It needs a simple way for people to do the right thing consistently.
-
-## How to Use This Project in Interviews
-
-In an interview, I would explain this project as a practical gap analysis for a small recruitment agency that handles a lot of personal data but relies on email, Excel, and shared folders.
-
-The main thing I would highlight is that the issue was not just GDPR knowledge. It was the lack of a repeatable process. Requests could be handled, but the business had no simple way to track ownership, deadlines, or evidence.
-
-This project demonstrates process analysis, gap identification, risk thinking, stakeholder-friendly documentation, and practical recommendations.
-
-It is relevant to Business Analyst roles because many BA problems are like this: the business is doing the work, but the process is too manual, unclear, or hard to measure.
-
-## Resume Bullets
-
-- Reviewed GDPR handling for a small recruitment agency using email, Excel, and shared folders.
-- Identified gaps around consent tracking, data storage, deletion requests, retention, and audit evidence.
-- Recommended a simple request tracker and data register to reduce missed requests and improve visibility.
