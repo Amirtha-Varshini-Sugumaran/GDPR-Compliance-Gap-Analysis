@@ -6,6 +6,14 @@ This mini-project looks at GDPR process gaps in a small recruitment agency in Du
 
 The focus is not legal advice. It is a Business Analyst-style review of how personal data is currently handled, where the weak spots are, and what a realistic improved process could look like for a small team.
 
+## Data & Approach
+
+This is a case-study-style analysis, not a review of a real company.
+
+No real company data or personal data was used. The scenario is based on realistic SME workflows, especially the way small recruitment teams often rely on email, spreadsheets, and shared folders.
+
+The goal was to reflect common GDPR process gaps in a practical way.
+
 ## Why This Project Matters
 
 SMEs often handle personal data every day, but they do not always have a formal compliance team or a dedicated system for GDPR work.
